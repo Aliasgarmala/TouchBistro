@@ -1,9 +1,9 @@
 //
-//  NSDecimalNumber+Utilities.swift
-//  POS
+//  NSDecimalNumber+Utilties.swift
+//  BillEngine
 //
-//  Created by Aliasgar Mala on 2020-06-24.
-//  Copyright © 2020 TouchBistro. All rights reserved.
+//  Created by Aliasgar Mala on 2020-06-27.
+//  Copyright © 2020 Aliasgar Mala. All rights reserved.
 //
 
 import Foundation

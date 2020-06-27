@@ -1,9 +1,9 @@
 //
 //  Box.swift
-//  POS
+//  BillEngine
 //
 //  Created by Aliasgar Mala on 2020-06-27.
-//  Copyright © 2020 TouchBistro. All rights reserved.
+//  Copyright © 2020 Aliasgar Mala. All rights reserved.
 //
 
 import Foundation
@@ -27,3 +27,4 @@ class Box<T> {
         listener?(value)
     }
 }
+

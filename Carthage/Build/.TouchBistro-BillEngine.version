@@ -1,0 +1,11 @@
+{
+  "commitish" : "5c336f0911b2a3e73bf169d1f237cf12a20a63bc",
+  "iOS" : [
+    {
+      "hash" : "6e49470c25236f61fedd8b7ee90eac7017cab8a04b649a29c6d8ec146a97ec60",
+      "name" : "BillEngine",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

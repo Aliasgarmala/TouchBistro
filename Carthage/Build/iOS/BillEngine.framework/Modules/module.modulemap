@@ -1,0 +1,11 @@
+framework module BillEngine {
+  umbrella header "BillEngine.h"
+
+  export *
+  module * { export * }
+}
+
+module BillEngine.Swift {
+    header "BillEngine-Swift.h"
+    requires objc
+}
